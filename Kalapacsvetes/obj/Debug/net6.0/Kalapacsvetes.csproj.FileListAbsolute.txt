@@ -1,0 +1,15 @@
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\bin\Debug\net6.0\Kalapacsvetes.exe
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\bin\Debug\net6.0\Kalapacsvetes.deps.json
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\bin\Debug\net6.0\Kalapacsvetes.runtimeconfig.json
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\bin\Debug\net6.0\Kalapacsvetes.dll
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\bin\Debug\net6.0\Kalapacsvetes.pdb
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\obj\Debug\net6.0\Kalapacsvetes.csproj.AssemblyReference.cache
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\obj\Debug\net6.0\Kalapacsvetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\obj\Debug\net6.0\Kalapacsvetes.AssemblyInfoInputs.cache
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\obj\Debug\net6.0\Kalapacsvetes.AssemblyInfo.cs
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\obj\Debug\net6.0\Kalapacsvetes.csproj.CoreCompileInputs.cache
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\obj\Debug\net6.0\Kalapacsvetes.dll
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\obj\Debug\net6.0\refint\Kalapacsvetes.dll
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\obj\Debug\net6.0\Kalapacsvetes.pdb
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\obj\Debug\net6.0\Kalapacsvetes.genruntimeconfig.cache
+C:\Users\stiegelmayer.balint\Desktop\Felvételi\Kalapacsvetes\Kalapacsvetes\obj\Debug\net6.0\ref\Kalapacsvetes.dll
